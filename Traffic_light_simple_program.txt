@@ -1,0 +1,28 @@
+Traffic_light_simple_program
+
+print ("Traffic light programme system")
+while true:
+  if loopy == 1
+
+  print("Input signal to run program")
+  print("Input red for stop")
+  print("Input green for Go")
+  print("Input stop for End program")
+else:
+  print("Input signal to run program")
+  print("-----")
+signal=Input()
+if signal="red"
+  print("colour=red")
+  print("stop behind the line")
+  print("Next 60 seconds")
+  print("-----")
+  else:
+if signal=="yellow"
+  print("color=yellow")
+  print("Get ready to stop your vehicle")
+  print("-----")
+else:
+ if signal==green
+ print("You can move farward")  
+ print("----")
